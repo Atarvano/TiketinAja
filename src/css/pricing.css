@@ -27,8 +27,6 @@ body::before {
     left: 0;
     right: 0;
     height: 100vh;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.9) 100%), 
-                url('/api/placeholder/1920/1080') center/cover no-repeat;
     background-attachment: fixed;
     z-index: -1;
     opacity: 0.6;
